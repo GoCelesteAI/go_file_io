@@ -1,0 +1,7 @@
+Welcome to Go File I/O!
+
+This is a sample text file.
+We will learn to read this file using Go.
+
+Go provides excellent file handling capabilities.
+The os and io packages make it simple.
